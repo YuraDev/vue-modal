@@ -1,4 +1,4 @@
-# vue-kit
+#  Vue.js Modal Pop-up ([Demo](https://yuradev.github.io/vue-modal/))
 
 ## Project setup
 ```
